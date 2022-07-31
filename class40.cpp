@@ -12,6 +12,7 @@ int Rew(int a ,int b){
     int c=1;
     for (int i=0;i<5;i++){
          c=b*c;
+//      ka ho ka banayeo
 
     }
 return  c;
